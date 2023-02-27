@@ -1,0 +1,17 @@
+.products-container{
+    max-width:650 px;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    color: rgb(172, 26, 26);
+}
+
+.products-header{
+    width: 100%;
+    max-width: 650px;
+    display:flex;
+    justify-content: flex-start;
+    border-bottom: 4px solid lightgrey;
+    margin: 0 auto;
+}
+
