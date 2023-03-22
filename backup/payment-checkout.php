@@ -76,9 +76,9 @@
 
               <br>
               <center>
-              <img src="img/NETGLOBALPAY-LOGO.png" class="img-fluid" style="max-width: 35%; height: auto;">
+              <img src="img/TEXTMARK3.png" class="img-fluid" style="max-width: 80%; height: auto;">
               </center>
-              
+              <br>
               <hr>
               <br>
               <label class="cred">Full Name : <span class="cred-span"><?php echo $full_name ?></span></label><br>
@@ -97,12 +97,12 @@
 
               <hr>
               <center>
-              <img src="img/card-logo-new.png" class="img-fluid" style="max-width: 40%; height: auto;">
+              <img src="img/card-payment.png" class="img-fluid" style="max-width: 40%; height: auto;">
               </center>
               <script>
                             let cartCost = localStorage.getItem('totalCost');
                             cartCost = parseInt(cartCost);
-                            let prePay = parseInt(cartCost);  
+                            let prePay = parseInt(cartCost);
                             let tranPay = 55;
                             tranPay = parseInt(tranPay);
                             prePay = prePay + tranPay;

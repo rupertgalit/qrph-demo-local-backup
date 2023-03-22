@@ -53,9 +53,6 @@
   /* Responsive design */
 
 
-
-
-
 </style>
 
 </head>
@@ -64,7 +61,7 @@
 
 <body>
 
-    
+
         <div class="wrapper">
             
             <form class="form-signin" method="" action="<?php echo $base_url;?>/checkout.php">       
@@ -79,10 +76,6 @@
                     // $email_address = $_GET['email_address'];
                     // $ph_mobile_num = '(+63)'.$_GET['phone_number'];
               ?>
-
-
- 
-
 
               <br>
               <center>

@@ -290,7 +290,7 @@ button.payment{
                 <div class="panel-body">
                     <div class="form-group">
                     <center>
-                    <img src="img/NETGLOBALPAY-LOGO.png" class="img-fluid" style="max-width: 25%; height: auto;">
+                    <img src="img/TEXTMARK3.png" class="img-fluid" style="max-width: 70%; height: auto;">
                     </center>   
                     <hr>
                     <center>
